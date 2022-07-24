@@ -1,17 +1,5 @@
 # flutter_login_register
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutter_login_register" 
+![Screenshot_2022-07-24-12-03-50-999_com example bc2 (1)](https://user-images.githubusercontent.com/98719054/180642945-2566544f-d559-4390-b16e-8fcf2eb516a7.jpg)
+![Screenshot_2022-07-24-12-03-50-999_com example bc2](https://user-images.githubusercontent.com/98719054/180642950-391b722c-40be-4c0f-aa9f-d64c0c8ec2e1.jpg)
